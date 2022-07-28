@@ -227,6 +227,7 @@ nav a button:hover{
 .card i{
     font-size: 50px;
     text-align: center;
+    align-items: center;
     color: #0088a9;
     margin: 18px 0px;
     cursor: pointer;
